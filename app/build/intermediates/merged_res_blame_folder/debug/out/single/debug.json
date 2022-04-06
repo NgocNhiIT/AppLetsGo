@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_foreground.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrright.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\arrright.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_porcupine.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\porcupine.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_checkin6.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\checkin6.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_picture_word_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\picture_word_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_gosling.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\gosling.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_dict.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\dict.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_snow.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\snow.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_play.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_review.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\background_review.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_vienbtn.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\vienbtn.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_arleft.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\arleft.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_lamb.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\lamb.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_learning_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\learning_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_card_view_row.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\card_view_row.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_sweet1.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\sweet1.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_video.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\video.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_ontap.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\ontap.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_foal.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\foal.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_sa1.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\sa1.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_snowunscreen.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\snowunscreen.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\anim_flash_right_in.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\anim\\flash_right_in.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_word_picture_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\word_picture_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_bear.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\bear.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_video_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\video_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh03.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh03.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_lalisa.mp4.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\lalisa.mp4"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_penguin.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\penguin.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_kid.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\kid.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_piglet.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\piglet.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_sweet2.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\sweet2.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh06.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh06.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_sparrow.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\sparrow.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_vulture.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\vulture.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_video.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\background_video.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_octopus.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\octopus.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_eagle.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\eagle.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_pc1.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\pc1.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_playunscreen.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\playunscreen.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_bluewhale.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\bluewhale.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable-v24\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh02.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh02.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_kitten.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\kitten.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_seal.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\seal.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrleft.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\arrleft.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_dict.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\background_dict.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_qua2.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\qua2.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_lion.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\lion.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_vienchu.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\vienchu.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_jaguar.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\jaguar.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_faded.mp4.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\faded.mp4"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_images.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_turtle.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\turtle.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_ostrich.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\ostrich.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_stingray.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\stingray.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh0.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh0.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_tudien.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\tudien.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_clownfish.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\clownfish.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_swordfish.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\swordfish.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh05.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh05.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_duckling.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\duckling.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_puppy.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\puppy.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_foreground.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_arright.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\arright.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_calf.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\calf.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_squirrel.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\squirrel.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_let1.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\let1.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_parrot.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\parrot.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_seahorse.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\seahorse.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_title_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_vien.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\vien.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_owl.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\owl.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_wellcom.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\wellcom.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_option.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\activity_main_option.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_fox.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\fox.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinhnentrang1.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinhnentrang1.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_video.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable-v24\\ic_video.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh01.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh01.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_book.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable-v24\\ic_book.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_learning.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\learning.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_quaunscreen.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\quaunscreen.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_wel.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\wel.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_customshape_list.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\customshape_list.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_lobster.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\lobster.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_chick.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\chick.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinhnentoto.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinhnentoto.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh07.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh07.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_giraffe.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\giraffe.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_foreground.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_letsgo.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\letsgo.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_snow1.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\snow1.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_sa.jpg.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\sa.jpg"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_round.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_letsgounscreen.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\letsgounscreen.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_vienanh.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\vienanh.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_nen1.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\nen1.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_xoanen.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\ic_xoanen.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_santa.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\santa.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_hippopotamus.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\hippopotamus.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logo_background.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\ic_logo_background.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_onmyway.mp4.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\onmyway.mp4"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_vienbutton.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\vienbutton.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_play_video.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_row_video.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\row_video.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_review.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable-v24\\ic_review.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\anim_flash_left_in.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\anim\\flash_left_in.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinh08.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\hinh08.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_learning.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\background_learning.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_foreground.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_elephant.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\elephant.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_se.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_se.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_foreground.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_foreground.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_review_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\review_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_qua3unscreen.gif.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\qua3unscreen.gif"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_nen.JPG.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\nen.JPG"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_welcom.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\welcom.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background_pink.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable-v24\\background_pink.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_jellyfish.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\jellyfish.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_amthanhbg.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\amthanhbg.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_dictionary_layout.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\dictionary_layout.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_pigeon.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\pigeon.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_list_video.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\custom_list_video.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_list_title.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\custom_list_title.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_crow.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\crow.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_round.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_starfish.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\starfish.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\layout_title_adapter.xml.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\layout\\title_adapter.xml"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_squid.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\squid.mp3"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\drawable_bgresult.png.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\drawable\\bgresult.png"
+    },
+    {
+        "merged": "E:\\DACN\\LETsGO\\app\\build\\intermediates\\merged_res\\debug\\raw_raccoon.mp3.flat",
+        "source": "E:\\DACN\\LETsGO\\app\\src\\main\\res\\raw\\raccoon.mp3"
+    }
+]

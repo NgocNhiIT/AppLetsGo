@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vocabulary.Review">
+
+    <TableRow
+        android:id="@+id/tbrTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp">
+
+
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Title "
+            android:textColor="#ED1C1C"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tbrAsk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tbrTextTitle"
+        android:layout_marginTop="3dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What is the picture? "
+            android:textColor="#000"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <RelativeLayout
+        android:id="@+id/relatFlash"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tbrAsk"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp">
+
+        <RelativeLayout
+            android:id="@+id/rltBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:background="@drawable/vienanh"
+                android:paddingLeft="5dp"
+                android:paddingTop="20dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="20dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/hinh0" />
+
+            <TextView
+                android:id="@+id/imgBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:gravity="center"
+                android:text="Hello"
+                android:textColor="#000000"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/imgFront"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/vienanh"
+            android:paddingLeft="10dp"
+            android:paddingTop="20dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="20dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/images" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/rltansswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relatFlash"
+        android:layout_marginTop="3dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text=""
+            android:textColor="#000"
+            android:textSize="17dp" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center">
+
+            <RadioGroup
+                android:id="@+id/rgWord1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbAnswer1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="Ans1"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/rbAnswer2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="Ans2"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+                <RadioButton
+                    android:id="@+id/rbAnswer3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    android:text="Ans3"
+                    android:textSize="13dp"
+                    android:textStyle="bold" />
+
+            </RadioGroup>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center">
+
+            <RadioGroup
+                android:id="@+id/rgWord2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+            </RadioGroup>
+
+        </TableRow>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/btnSubmit"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:background="@drawable/vienbtn"
+                    android:onClick="onCLickView"
+                    android:text="Submit"
+                    android:textAllCaps="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center"
+                    android:text="Submit "
+                    android:textColor="#000"
+                    android:textSize="17dp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageButton
+                    android:id="@+id/btnShowAnswer"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/vienbtn"
+                    android:onClick="onCLickView"
+                    android:text=" Show answer"
+                    android:textAllCaps="false" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center"
+                    android:text="Show"
+                    android:textColor="#000"
+                    android:textSize="17dp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvmeaning"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Meaning"
+                android:textColor="#FA7070"
+                android:textSize="17dp"
+                android:textStyle="bold" />
+        </TableRow>
+
+    </LinearLayout>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="241dp"
+        android:layout_below="@id/rltansswer"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-1dp"
+        android:background="@drawable/hinh08"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/btPrevReview"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:background="@drawable/arleft"
+            android:onClick="onCLickView"
+            android:scaleType="fitXY"
+            android:textAllCaps="false" />
+
+        <ImageButton
+            android:id="@+id/btNextReview"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/arright"
+            android:onClick="onCLickView"
+            android:scaleType="fitXY"
+            android:textAllCaps="false" />
+
+    </TableRow>
+
+
+</RelativeLayout>

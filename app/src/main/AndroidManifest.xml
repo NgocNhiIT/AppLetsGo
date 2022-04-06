@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.n2n.letsgo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="Let&apos;s Go"
+        android:roundIcon="@mipmap/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LETsGO">
+        <activity
+            android:name=".Video.PlayVideo"
+            android:screenOrientation="landscape"
+            android:exported="true" />
+        <activity
+            android:name=".Vocabulary.Review"
+            android:exported="true" />
+        <activity
+            android:name=".Vocabulary.Learning"
+            android:exported="true" />
+        <activity
+            android:name=".Video.Video_activity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true" />
+        <activity
+            android:name=".TypeReView.Word_Picture_activity"
+            android:exported="true" />
+        <activity
+            android:name=".TypeReView.Picture_Word_activity"
+            android:exported="true" />
+        <activity
+            android:name=".Title.Title_activity"
+            android:exported="true" />
+        <activity
+            android:name=".Dictionary.Dictionary_activity"
+            android:exported="true" />
+        <activity
+            android:name=".MainOption"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

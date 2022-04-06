@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vocabulary.Learning">
+
+    <TableRow
+        android:id="@+id/tbrCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/vien"
+        android:gravity="center" />
+
+    <RelativeLayout
+        android:id="@+id/relatFlash"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tbrCheck"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="8dp">
+
+        <RelativeLayout
+            android:id="@+id/rltBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="390dp"
+                android:background="@drawable/vienanh"
+                android:paddingLeft="5dp"
+                android:paddingTop="60dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="60dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/hinh0" />
+
+            <TextView
+                android:id="@+id/imgBack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="1dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:gravity="center"
+                android:text="Hello"
+                android:textColor="#000000"
+                android:textSize="30dp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/imgFront"
+            android:layout_width="match_parent"
+            android:layout_height="390dp"
+            android:background="@drawable/vienanh"
+            android:paddingLeft="10dp"
+            android:paddingTop="60dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="60dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/images" />
+
+        <TextView
+            android:id="@+id/tvNamePic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgFront"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:text="NamePic"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/relatFlash"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/hinh08"
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/btPrev"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:background="@drawable/arleft"
+            android:onClick="onClickControl"
+            android:scaleType="fitXY"
+            android:textAllCaps="false" />
+
+        <ImageButton
+            android:id="@+id/btNext"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/arright"
+            android:onClick="onClickControl"
+            android:scaleType="fitXY"
+            android:textAllCaps="false" />
+
+        <ImageButton
+            android:id="@+id/btSound"
+            android:layout_width="80dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/amthanhbg"
+            android:onClick="onClickControl"
+            android:scaleType="fitXY"
+            android:textAllCaps="false" />
+
+    </TableRow>
+
+</RelativeLayout>

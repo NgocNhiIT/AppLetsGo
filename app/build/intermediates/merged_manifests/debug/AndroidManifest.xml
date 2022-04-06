@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.n2n.letsgo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="Let&apos;s Go"
+        android:roundIcon="@mipmap/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LETsGO" >
+        <activity
+            android:name="com.n2n.letsgo.Video.PlayVideo"
+            android:exported="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.n2n.letsgo.Vocabulary.Review"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.Vocabulary.Learning"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.Video.Video_activity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.TypeReView.Word_Picture_activity"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.TypeReView.Picture_Word_activity"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.Title.Title_activity"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.Dictionary.Dictionary_activity"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.MainOption"
+            android:exported="true" />
+        <activity
+            android:name="com.n2n.letsgo.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.n2n.letsgo.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
